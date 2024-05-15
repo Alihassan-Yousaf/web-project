@@ -2,7 +2,7 @@
 
 # Travel Destination Explorer 🌍
 
-Welcome to the Travel Destination Explorer! This project is the culmination of my individual efforts for my college semester project, blending front-end technologies like HTML, CSS, and JavaScript with server-side PHP CRUD operations, providing a comprehensive platform for exploring international destinations.
+Welcome to the Travel Destination Explorer! This project is the culmination of my individual efforts for my college 4th semester project, blending front-end technologies like HTML, CSS, and JavaScript with server-side PHP CRUD operations, providing a comprehensive platform for exploring international destinations.
 
 ## Project Overview:
 - 🌟 Explore breathtaking international destinations, discover exciting activities, and find the perfect hotels for your dream vacation.
